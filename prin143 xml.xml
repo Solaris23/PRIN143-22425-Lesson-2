@@ -1,0 +1,68 @@
+<politician>
+    <name>Juan Cruz</name>
+    <party>Lakad Matatag Party</party>
+    <positionRunningFor>Senator</positionRunningFor>
+    <campaignSlogan>Para sa Bayan</campaignSlogan>
+    <keyPolicies>
+        <policy>Healthcare for All</policy>
+        <policy>Tax Reform</policy>
+        <policy>Education Accessibility</policy>
+    </keyPolicies>
+</politician>
+
+
+<bankTransaction>
+    <transactionId>123456</transactionId>
+    <accountHolder>Jane Doe</accountHolder>
+    <transactionType>Deposit</transactionType>
+    <amount>500.00</amount>
+    <transactionDate>2025-02-06</transactionDate>
+    <transactionDetails>
+        <detail>Online Transfer</detail>
+        <detail>Bank Fee: 2.50</detail>
+        <detail>Processed Instantly</detail>
+    </transactionDetails>
+</bankTransaction>
+
+
+<studentRecord>
+    <studentId>20251234</studentId>
+    <fullName>John Smith</fullName>
+    <course>Computer Science</course>
+    <yearLevel>3</yearLevel>
+    <enrollmentStatus>Enrolled</enrollmentStatus>
+    <enrolledSubjects>
+        <subject>Data Structures</subject>
+        <subject>Database Systems</subject>
+        <subject>Software Engineering</subject>
+    </enrolledSubjects>
+</studentRecord>
+
+
+<movie>
+    <movieId>98765</movieId>
+    <title>Galactic Voyage</title>
+    <genre>Science Fiction</genre>
+    <releaseYear>2023</releaseYear>
+    <rating>8.5</rating>
+    <cast>
+        <actor>Emma Stone</actor>
+        <actor>Chris Hemsworth</actor>
+        <actor>Michael B. Jordan</actor>
+    </cast>
+</movie>
+
+
+<product>
+    <productId>54321</productId>
+    <productName>Wireless Headphones</productName>
+    <category>Electronics</category>
+    <price>99.99</price>
+    <availabilityStatus>In Stock</availabilityStatus>
+    <features>
+        <feature>Bluetooth 5.0</feature>
+        <feature>Noise Cancelling</feature>
+        <feature>12-Hour Battery Life</feature>
+    </features>
+</product>
+</data>

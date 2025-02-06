@@ -1,0 +1,77 @@
+{
+    "politician": {
+        "name": "Juan Cruz",
+        "party": "Lakad Matatag Party",
+        "positionRunningFor": "Senator",
+        "campaignSlogan": "Para sa Bayan",
+        "keyPolicies": [
+            "Healthcare for All",
+            "Tax Reform",
+            "Education Accessibility"
+        ]
+    }
+}
+
+
+{
+    "bankTransaction": {
+        "transactionId": "123456",
+        "accountHolder": "Jane Doe",
+        "transactionType": "Deposit",
+        "amount": 500.00,
+        "transactionDate": "2025-02-06",
+        "transactionDetails": [
+            "Online Transfer",
+            "Bank Fee: 2.50",
+            "Processed Instantly"
+        ]
+    }
+}
+
+
+{
+    "studentRecord": {
+        "studentId": "20251234",
+        "fullName": "John Smith",
+        "course": "Computer Science",
+        "yearLevel": 3,
+        "enrollmentStatus": "Enrolled",
+        "enrolledSubjects": [
+            "Data Structures",
+            "Database Systems",
+            "Software Engineering"
+        ]
+    }
+}
+
+
+{
+    "movie": {
+        "movieId": "98765",
+        "title": "Galactic Voyage",
+        "genre": "Science Fiction",
+        "releaseYear": 2023,
+        "rating": 8.5,
+        "cast": [
+            "Emma Stone",
+            "Chris Hemsworth",
+            "Michael B. Jordan"
+        ]
+    }
+}
+
+
+{
+    "product": {
+        "productId": "54321",
+        "productName": "Wireless Headphones",
+        "category": "Electronics",
+        "price": 99.99,
+        "availabilityStatus": "In Stock",
+        "features": [
+            "Bluetooth 5.0",
+            "Noise Cancelling",
+            "12-Hour Battery Life"
+        ]
+    }
+}
