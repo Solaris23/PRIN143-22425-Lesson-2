@@ -1,0 +1,12 @@
+<movie>
+    <movieId>98765</movieId>
+    <title>Galactic Voyage</title>
+    <genre>Science Fiction</genre>
+    <releaseYear>2023</releaseYear>
+    <rating>8.5</rating>
+    <cast>
+        <actor>Emma Stone</actor>
+        <actor>Chris Hemsworth</actor>
+        <actor>Michael B. Jordan</actor>
+    </cast>
+</movie>

@@ -1,0 +1,12 @@
+<bankTransaction>
+    <transactionId>123456</transactionId>
+    <accountHolder>Jane Doe</accountHolder>
+    <transactionType>Deposit</transactionType>
+    <amount>500.00</amount>
+    <transactionDate>2025-02-06</transactionDate>
+    <transactionDetails>
+        <detail>Online Transfer</detail>
+        <detail>Bank Fee: 2.50</detail>
+        <detail>Processed Instantly</detail>
+    </transactionDetails>
+</bankTransaction>

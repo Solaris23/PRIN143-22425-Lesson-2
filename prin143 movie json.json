@@ -1,0 +1,14 @@
+{
+    "movie": {
+        "movieId": "98765",
+        "title": "Galactic Voyage",
+        "genre": "Science Fiction",
+        "releaseYear": 2023,
+        "rating": 8.5,
+        "cast": [
+            "Emma Stone",
+            "Chris Hemsworth",
+            "Michael B. Jordan"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "product": {
+        "productId": "54321",
+        "productName": "Wireless Headphones",
+        "category": "Electronics",
+        "price": 99.99,
+        "availabilityStatus": "In Stock",
+        "features": [
+            "Bluetooth 5.0",
+            "Noise Cancelling",
+            "12-Hour Battery Life"
+        ]
+    }
+}

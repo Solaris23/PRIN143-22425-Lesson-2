@@ -1,0 +1,14 @@
+{
+    "bankTransaction": {
+        "transactionId": "123456",
+        "accountHolder": "Jane Doe",
+        "transactionType": "Deposit",
+        "amount": 500.00,
+        "transactionDate": "2025-02-06",
+        "transactionDetails": [
+            "Online Transfer",
+            "Bank Fee: 2.50",
+            "Processed Instantly"
+        ]
+    }
+}

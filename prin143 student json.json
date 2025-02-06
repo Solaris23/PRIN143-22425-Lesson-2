@@ -1,0 +1,14 @@
+{
+    "studentRecord": {
+        "studentId": "20251234",
+        "fullName": "John Smith",
+        "course": "Computer Science",
+        "yearLevel": 3,
+        "enrollmentStatus": "Enrolled",
+        "enrolledSubjects": [
+            "Data Structures",
+            "Database Systems",
+            "Software Engineering"
+        ]
+    }
+}

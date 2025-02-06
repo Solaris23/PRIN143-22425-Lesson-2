@@ -1,0 +1,11 @@
+<politician>
+    <name>Juan Cruz</name>
+    <party>Lakad Matatag Party</party>
+    <positionRunningFor>Senator</positionRunningFor>
+    <campaignSlogan>Para sa Bayan</campaignSlogan>
+    <keyPolicies>
+        <policy>Healthcare for All</policy>
+        <policy>Tax Reform</policy>
+        <policy>Education Accessibility</policy>
+    </keyPolicies>
+</politician>

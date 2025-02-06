@@ -1,0 +1,12 @@
+<studentRecord>
+    <studentId>20251234</studentId>
+    <fullName>John Smith</fullName>
+    <course>Computer Science</course>
+    <yearLevel>3</yearLevel>
+    <enrollmentStatus>Enrolled</enrollmentStatus>
+    <enrolledSubjects>
+        <subject>Data Structures</subject>
+        <subject>Database Systems</subject>
+        <subject>Software Engineering</subject>
+    </enrolledSubjects>
+</studentRecord>
